@@ -1,2 +1,3 @@
 v1 file created in github
-2nd line added in v1 in github
+2nd line added in v1 in GitHub
+3rd line added in local repository
